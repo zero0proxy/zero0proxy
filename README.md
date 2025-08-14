@@ -1,5 +1,9 @@
 # Wassap, I'm Jan! 👋
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RpdDE3ZHV0YTB0aWR2eXdpaWFhc3dvamtwcW51dm1kNW0xbzM4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Otter hacking" width="560" />
+</div>
+
 > *"I never stick to just one thing. A machine of endless energy and potential, a super-active cyborg from the IT world. Interested in everything — from programming in Ruby to advertising socks on Instagram. A mischievous otter, completely fearless and ready for new adventures!"*
 
 ---
