@@ -13,13 +13,13 @@
 - 👨‍💻 Started coding at the age of **9**, beginning with **Assembly** and **C**.
 - 🐧 Eternal **Linux** user — even developed my own custom Linux distribution (Unfortunately unsuccessful heh).
 - 💻 Skilled in:
-  - **HTML / CSS / JavaScript (React, TypeScript, Node.js, CoffeeScript)**
+  - **HTML / CSS / JavaScript (React, TypeScript, Node.js, Next.js CoffeeScript, Tailwind)**
 - 🎨 Fan of minimalist frameworks:
   - **Pico CSS** and **Tailwind CSS**
 - 🗄 Database experience:
   - **PostgreSQL**, **MongoDB**, **SQLite**
 - 🔌 API integrations:
-  - **GitHub API**, **OpenWeather API**, **TMDB API**
+  - **GitHub API**, **OpenWeather API**, Google Maps API, **TMDB API**
 - 🚀 Always curious, always building, always learning.
 
 ---
