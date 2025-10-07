@@ -13,7 +13,7 @@
 - 👨‍💻 Started coding at the age of **9**, beginning with **Assembly** and **C**.
 - 🐧 Eternal **Linux** user — even developed my own custom Linux distribution (Unfortunately unsuccessful heh).
 - 💻 Skilled in:
-  - **HTML / CSS / JavaScript (React, TypeScript, Node.js, Next.js CoffeeScript, Tailwind)**
+  - **HTML / CSS / JavaScript (React, TypeScript, Node.js, Next.js, CoffeeScript, Tailwind)**
 - 🎨 Fan of minimalist frameworks:
   - **Pico CSS** and **Tailwind CSS**
 - 🗄 Database experience:
